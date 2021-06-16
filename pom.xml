@@ -375,7 +375,7 @@
             <dependency>
                 <groupId>io.opentracing.contrib</groupId>
                 <artifactId>opentracing-apache-httpclient</artifactId>
-                <version>0.2.0</version>
+                <version>0.3.3</version>
             </dependency>
             <dependency>
                 <groupId>io.opentracing.contrib</groupId>
