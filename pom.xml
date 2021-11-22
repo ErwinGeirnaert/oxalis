@@ -111,7 +111,7 @@
             <dependency>
                 <groupId>no.difi.oxalis</groupId>
                 <artifactId>oxalis-inbound</artifactId>
-                <version>4.0.5-SNAPSHOT</version>
+                <version>4.1.0</version>
             </dependency>
             <dependency>
                 <groupId>no.difi.oxalis</groupId>
