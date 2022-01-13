@@ -133,12 +133,12 @@
             <dependency>
                 <groupId>no.difi.oxalis</groupId>
                 <artifactId>oxalis-standalone</artifactId>
-                <version>4.0.5-SNAPSHOT</version>
+                <version>4.1.0</version>
             </dependency>
             <dependency>
                 <groupId>no.difi.oxalis</groupId>
                 <artifactId>oxalis-statistics</artifactId>
-                <version>4.0.5-SNAPSHOT</version>
+                <version>4.1.0</version>
             </dependency>
             <dependency>
                 <groupId>no.difi.oxalis</groupId>
